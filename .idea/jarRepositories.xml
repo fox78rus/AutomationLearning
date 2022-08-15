@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/jcenter/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/maven-central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tvpp.snapshots" />
+      <option name="name" value="tvpp.snapshots" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/tvpp-maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="smartbear" />
+      <option name="name" value="smartbear" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/rapi.tools.ops.smartbear.io/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fornax" />
+      <option name="name" value="fornax" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/projects.itemis.de.nexus.public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="redhat" />
+      <option name="name" value="redhat" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/maven.repository.redhat.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tvpp.maven" />
+      <option name="name" value="tvpp.maven" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/tvpp-maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss" />
+      <option name="name" value="jboss" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/repository.jboss.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tvpp.releases" />
+      <option name="name" value="tvpp.releases" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/tvpp-maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="vaadin" />
+      <option name="name" value="vaadin" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/maven.vaadin.com/vaadin-addons/" />
+    </remote-repository>
+  </component>
+</project>
