@@ -3,6 +3,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -38,6 +39,8 @@ public class Edge {
         driver.navigate().back();
         driver.navigate().forward();
         driver.navigate().refresh();
+        driver.findElements().le;
+
     }
 
     @After
